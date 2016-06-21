@@ -1,7 +1,7 @@
 #!/bin/bash
 
 JMETER_DIR="$1"
-JMETER_URL="http://www.mirrorservice.org/sites/ftp.apache.org/jmeter/binaries/apache-jmeter-2.13.tgz"
+JMETER_URL="http://www.mirrorservice.org/sites/ftp.apache.org/jmeter/binaries/apache-jmeter-3.0.tgz"
 
 white=`tput setaf 7`
 reset=`tput sgr0`
